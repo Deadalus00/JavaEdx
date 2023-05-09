@@ -1,0 +1,14 @@
+public class Repeater {
+	
+	public static void main(String[] args) {
+		repeatString("Something",1024);
+	}
+
+	public static void repeatString(string toRepeat, int times){
+		if (times <= 0){
+			return ;
+		}
+		System.out.println(toRepeat);
+		repeatString(toRepeat, times--);
+	}
+}

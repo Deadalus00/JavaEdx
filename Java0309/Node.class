@@ -1,0 +1,4 @@
+private class Node<E>{
+	E data;
+	Node<e> next;
+}

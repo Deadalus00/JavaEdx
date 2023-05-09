@@ -1,0 +1,10 @@
+On line 1, we have: and.
+This is the line: Four score and seven years ago our fathers brought forth, on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+On line 2, we have: and.
+This is the line: Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure. 
+On line 4, we have: and.
+This is the line: It is altogether fitting and proper that we should do this.
+On line 6, we have: and.
+This is the line: The brave men, living and dead, who struggled here, have consecrated it far above our poor power to add or detract. 
+On line 9, we have: and.
+This is the line: It is rather for us to be here dedicated to the great task remaining before us that from these honored dead we take increased devotion to that cause for which they here gave the last full measure of devotion - that we here highly resolve that these dead shall not have died in vain that this nation, under God, shall have a new birth of freedom, and that government of the people, by the people, for the people, shall not perish from the earth.
